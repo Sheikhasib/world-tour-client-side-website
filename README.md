@@ -2,6 +2,22 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Description:
+    
+    Tourism is travel for pleasure or business; also the theory and practice of touring, the business of attracting, accommodating, and entertaining tourists, and the business of operating tours.[2] The World Tourism Organization defines tourism more generally, in terms which go "beyond the common perception of tourism as being limited to holiday activity only", as people "traveling to and staying in places outside their usual environment for not more than one consecutive year for leisure and not less than 24 hours, business and other purposes".[3] Tourism can be domestic (within the traveller's own country) or international, and international tourism has both incoming and outgoing implications on a country's balance of payments.
+
+Features & Functionality of this project:
+
+         i.Easy to use front-end system.
+
+         ii.Google, Email&Password Sign In method using firebase.
+
+         iii.Using Context API, Load data from mongodb database using heroku.
+
+         iv.Using Private Route.
+
+         v.No need of reloading any page.
+
 ## Available Scripts
 
 In the project directory, you can run:

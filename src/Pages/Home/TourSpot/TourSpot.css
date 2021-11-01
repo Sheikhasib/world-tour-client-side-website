@@ -1,0 +1,8 @@
+.spot{
+    background-color: #01eeff52;
+    border-radius: 20px;
+}
+.spot img{
+    width: 75%;
+    height: 200px;
+}
